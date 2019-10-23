@@ -1,0 +1,112 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    color: #2d354c;
+}
+
+h1 {
+    color: white;
+    font-size: 70px;
+    text-align: center;
+}
+h1 span {
+    color: #32C3FF;
+}
+h2 {
+    font-size: 48px;
+    font-weight: bolder;
+}
+h3 {
+    font-size: 38px;
+    margin: 40px auto;
+}
+
+h4 {
+    font-size: 32px;
+}
+
+body header {
+    background-image: url("images/download-1.svg");
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+.flexbox {
+    display: flex;
+}
+.justify-content {
+    justify-content: center;
+}
+.text-align {
+    text-align: center;
+}
+header p {
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 100px;
+}
+
+.nav {
+    justify-content: center; 
+    padding-top: 30px;
+    
+}
+nav li {
+    list-style-type: none;
+    align-content: center;
+}
+
+.white-letter {
+    color:white;
+}
+.companies {
+    text-align: center;
+}
+.companies img{
+    width: 10%;
+    filter: grayscale(100%);
+}
+
+.images {
+    justify-content: space-around;
+}
+
+.button {
+    border: 1px solid #32C3FF;
+    color: #32C3FF;
+    padding: 24px 40px;
+    border-radius: 5% 5%;
+    margin-top: 20px;
+    display: block;
+    text-align: center;
+}
+.blue-btn {
+    background: #32C3FF;
+    color:white;
+    display: block;
+    margin: 0 400px;
+}
+.student article {
+    font-size: 20px;
+    text-transform: uppercase;
+    justify-content: space-around;
+}
+.numbers {
+    font-size: 70px;    
+}
+
+.courses {
+    padding: 64px 23px;
+}
+.red-letter {
+    color:red;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.p-size {
+    letter-spacing: -1px;
+}
+
+
+
+
+
